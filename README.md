@@ -6,7 +6,7 @@ this program contains a DJango server page where you can search for movie
 reviews or release dates
 
 I regret to inform that the images wont load due to Windows not allowing 
-folders to contain "/" or "\" needed for the "movie/media/image" folder
+folders to contain " / " or " \ " needed for the "movie/media/image" folder
 
 requirements:
 <list>
