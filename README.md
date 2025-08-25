@@ -10,4 +10,7 @@ requirements:
 * Python
 * DJango library installed
 * web browser
+* pandas
+* pillow
+* matplot
  </list>
